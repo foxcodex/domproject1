@@ -1,0 +1,20 @@
+/* styles.css */
+
+.like-button .fas {
+    color: gray;
+}
+
+.like-button.liked .fas {
+    color: blue;
+}
+
+.quantity-button {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    font-size: 18px;
+}
+
+.delete-button .fas {
+    color: white;
+}
